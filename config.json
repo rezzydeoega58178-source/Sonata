@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://127.0.0.1:3000",
+  "ratBaseUrl": "http://127.0.0.1:3000",
+  "ratSocketUrl": "http://127.0.0.1:3000",
+  "wsRawUrl": "ws://127.0.0.1:3000/ws-raw"
+}
